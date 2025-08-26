@@ -2,6 +2,10 @@
 
 A audio stem separation application powered by Demucs AI models.
 
+<p align="left">
+  <img src="assets/images/interface.png" alt="Interface do aplicativo" width="40%"/>
+</p>
+
 ## Features
 
 - 🎵 High-quality audio stem separation
